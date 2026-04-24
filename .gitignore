@@ -1,0 +1,10 @@
+server/data/
+server/node_modules/
+client/build/
+client/.dart_tool/
+client/.flutter-plugins-dependencies
+client/.idea/
+.idea/
+final-apk/
+render-upload-ready/
+server/.env

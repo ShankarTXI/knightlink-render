@@ -1,0 +1,14 @@
+{
+  "name": "knightlink-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Workspace helper scripts for KnightLink",
+  "scripts": {
+    "server:start": "npm --prefix server start",
+    "server:test": "npm --prefix server test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0-only",
+  "type": "commonjs"
+}
